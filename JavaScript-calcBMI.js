@@ -1,6 +1,8 @@
 // Aufgabe 1
 function calcBMI(mass, higher) {
-
+    
+    console.log("Deine Mase ist:", mass);
+    console.log("Deine Höher ist:", higher);
     let bmi = mass / higher / higher;
     return bmi;
     

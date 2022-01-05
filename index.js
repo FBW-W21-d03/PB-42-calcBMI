@@ -13,5 +13,5 @@ let return2 = bmi(120 , 1.8);
 
 // aufgabe teil2
 
-console.log(return1);
-console.log(return2);
+console.log(return1.toFixed(2));
+console.log(return2.toFixed(2));
